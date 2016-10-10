@@ -1,0 +1,21 @@
+apple = 1
+APPLE = 1
+Apple2 = 1    
+1Apple = 1
+account number = 1 
+account_number  = 1
+account.number = 1 
+accountNumber = 1 
+fred = 1 
+Fred = 1
+Return = 1
+return_value = 1 
+5Return = 1 
+GreatBigVariable = 1 
+greatBigVariable = 1 
+great_big_variable = 1 
+great.big.variable = 1  
+
+
+
+
